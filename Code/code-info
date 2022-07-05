@@ -1,0 +1,14 @@
+# What is Data Analytics And Machine Learning ?
+
+*  ### Data analytics can be referred to as the necessary level of data science. Data Analytics done by data analyst, it is usually the person who can do basic descriptive statistics, visualize data, and communicate data points for conclusions. They must have a basic understanding of statistics, a perfect sense of databases, the ability to create new views, and the perception to visualize the data. 
+
+*  ###  Machine learning can be defined as the practice of using algorithms to extract data, learn from it, and then forecast future trends for that topic. Traditional machine learning software is statistical analysis and predictive analysis that is used to spot patterns and catch hidden insights based on perceived data. 
+
+*  ### A good example of machine learning implementation is Facebook. Facebook’s machine learning algorithms gather behavioral information for every user on the social platform. Based on one’s past behavior, the algorithm predicts interests and recommends articles and notifications on the news feed. Similarly, when Amazon recommends products, or when Netflix recommends movies based on past behaviors, machine learning is at work.
+
+# Project Structure :
+
+==> Here , Code folder contains various files like :
+
+1. Python Notebook - These file contains code of importing & reading data , the cleaning data and model building .
+2. Pycharm file - These file contains code of creating web-app using streamlit librery .
